@@ -1,1 +1,0 @@
-Copy the template script into the corresponding tool script under TransX. Some scripts require registration keys or other authentication parameters. You can register and replace the placeholder characters in the script as needed.
